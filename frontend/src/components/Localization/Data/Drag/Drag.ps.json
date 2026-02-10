@@ -1,0 +1,12 @@
+{
+  "drag-table--header--id": "ایډی",
+  "drag-table--header--title": "درمل",
+  "drag-table--header--drag-name": "د درمل نوم",
+  "drag-table--header--category": "د درمل ډول",
+  "drag-table--header--quantity": "شمېر",
+  "drag-table--header--price": "قیمت",
+  "drag-table--header--total-bought": "خرڅ شوی",
+  "drag-table--header--remain-drag": "موجوده درمل",
+  "drag-table--header--action": "ړنګول",
+  "drag-btn--add-drag": "درمل اضافه کړه"
+}

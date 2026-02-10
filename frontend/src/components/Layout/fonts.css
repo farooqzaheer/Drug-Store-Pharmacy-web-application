@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Rajdhani";
+  src: url("../../assets//NotoNaskhArabic-VariableFont_wght.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Rajdhani", sans-serif;
+}
+
+.pashto-text {
+  font-family: "Rajdhani", sans-serif;
+}

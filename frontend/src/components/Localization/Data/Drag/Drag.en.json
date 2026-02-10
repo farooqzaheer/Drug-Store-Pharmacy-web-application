@@ -1,0 +1,12 @@
+{
+  "drag-table--header--id": "ID",
+  "drag-table--header--title": "Drags",
+  "drag-table--header--drag-name": "Drag Name",
+  "drag-table--header--category": "Categroy",
+  "drag-table--header--quantity": "Quantity",
+  "drag-table--header--price": "Price",
+  "drag-table--header--total-bought": "Bought",
+  "drag-table--header--remain-drag": "Remain Drag",
+  "drag-table--header--action": "Action",
+  "drag-btn--add-drag": "Add Drag"
+}

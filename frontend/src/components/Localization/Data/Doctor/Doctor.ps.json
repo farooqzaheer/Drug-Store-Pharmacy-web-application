@@ -1,0 +1,10 @@
+{
+  "doctor-table--header--id": "ایډی",
+  "doctor-table--header--doctor": "ډاکټران",
+  "doctor-table--header--name": "د ډاکټر نوم",
+  "doctor-table--header--discount": "تخفیف",
+  "doctor-table--header--paid-money": "بیل",
+  "doctor-table--header--unpaid-money": "نه اداکړي پیسې",
+  "doctor-table--header--action": "ړنګول",
+  "doctor-btn--add-drag": "ډاکټر اضافه کول"
+}

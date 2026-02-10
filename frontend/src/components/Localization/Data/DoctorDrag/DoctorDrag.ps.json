@@ -1,0 +1,13 @@
+{
+  "doctor-drag-table--header--id": "ایډي",
+  "doctor-drag-table--header--title": "رانیول شوی درمل",
+  "doctor-drag-table--header--doctor-name": "د ډاکټر نوم",
+  "doctor-drag-table--header--doctor-discount": "د ډاکټر تخفیف",
+  "doctor-drag-table--header--drag-name": "درمل",
+  "doctor-drag-table--header--drag-price": "د درمل قېمت",
+  "doctor-drag-table--header--quantity": "شمیر",
+  "doctor-drag-table--header--original-totale-Price": "جمله اصلی قېمت",
+  "doctor-drag-table--header--discounted-totale-price": "جمله تخفیف شوی قېمت",
+  "doctor-drag-table--header--action": "ړنګول",
+  "doctor-drag-btn--sell-drag": "درمل وپلوره"
+}

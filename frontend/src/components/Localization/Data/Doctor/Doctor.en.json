@@ -1,0 +1,10 @@
+{
+  "doctor-table--header--id": "ID",
+  "doctor-table--header--doctor": "Doctors",
+  "doctor-table--header--name": "Doctor Name",
+  "doctor-table--header--discount": "Discount",
+  "doctor-table--header--paid-money": "Print Bill",
+  "doctor-table--header--unpaid-money": "Unpaid Money",
+  "doctor-table--header--action": "Action",
+  "doctor-btn--add-drag": "Add Doctor"
+}

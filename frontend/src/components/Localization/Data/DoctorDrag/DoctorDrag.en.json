@@ -1,0 +1,13 @@
+{
+  "doctor-drag-table--header--id": "ID",
+  "doctor-drag-table--header--title": "Doctor Purchase",
+  "doctor-drag-table--header--doctor-name": "Doctor Name",
+  "doctor-drag-table--header--doctor-discount": "Doctor Discount",
+  "doctor-drag-table--header--drag-name": "Drag Name",
+  "doctor-drag-table--header--drag-price": "Drag Price",
+  "doctor-drag-table--header--quantity": "Quantity",
+  "doctor-drag-table--header--original-totale-Price": "Original Totale Price",
+  "doctor-drag-table--header--discounted-totale-price": "Discounted Totale Price",
+  "doctor-drag-table--header--action": "Action",
+  "doctor-drag-btn--sell-drag": "Sell Drag"
+}
